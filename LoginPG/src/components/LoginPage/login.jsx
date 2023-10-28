@@ -1,6 +1,4 @@
 import styled from "styled-components";
-// import { VscEye } from "react-icons/vsc";
-// import { VscEyeClosed } from "react-icons/vsc";
 import { FcGoogle } from "react-icons/Fc";
 import { AiFillGithub } from "react-icons/ai";
 

@@ -42,7 +42,7 @@ const LeftSide = styled(Sides)`
 const RightSide = styled(Sides)`
   align-items: center;
   flex: 1;
-  background-image: url("../public/right.jpeg");
+  background-image: url("/right.jpeg");
   object-fit: cover;
   background-repeat: no-repeat;
 

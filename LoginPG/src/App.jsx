@@ -2,7 +2,6 @@ import { createGlobalStyle } from "styled-components";
 import styled from "styled-components";
 import "./App.css";
 import LoginPage from "./components/LoginPage/LoginPage";
-// import bg from './backgroundMin.jpg'
 const GlobalStyle = createGlobalStyle`
 
 
